@@ -1,4 +1,3 @@
-# recache
 # 🧠 ReCache
 
 > “Store it once. Remember it forever.”

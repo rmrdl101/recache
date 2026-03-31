@@ -74,7 +74,11 @@ return [
     */
 
     'links' => [
+        // Create storage symbolic link first in the public directory
         public_path('storage') => storage_path('app/public'),
+
+        // Create a symbolic link of the public directory to the www of wampp64
+        'C:\wamp64\www/recache' => base_path('public'), 
     ],
 
 ];

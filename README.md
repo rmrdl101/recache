@@ -4,7 +4,7 @@
 
 ## 📌 What is ReCache?
 
-ReCache is my personal “second brain” — a system I built to store, organize, and retrieve thoughts, ideas, knowledge, and anything I don’t want to forget.
+ReCache is my personal “second brain”, A system I built to store, organize, and retrieve thoughts, ideas, knowledge, and anything I don’t want to forget.
 
 It’s not just a CMS.  
 It’s a place where I can **dump everything from my mind** and trust that I can find it again when I need it.
@@ -20,9 +20,7 @@ There was a point where I started noticing something:
 - Important details slip away
 - Information gets scattered across notes, chats, and files
 
-Instead of fighting my memory…
-
-👉 I decided to **extend it**
+Instead of fighting my memory… 👉 I decided to **extend it**
 
 ReCache exists because:
 - My brain is great at thinking, not storing
